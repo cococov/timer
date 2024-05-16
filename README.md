@@ -1,11 +1,12 @@
 # timer
 
-![image](https://github.com/cococov/timer/assets/19384973/24816b11-91bd-4320-8c89-1196689ac079)
+![image](https://github.com/cococov/timer/assets/19384973/a559e7ae-385b-49c5-bf4e-61d150afe641)
+
 
 ### ZSH config
 
 ```sh
-alias timer='function timer_py(){ python3 ~/code/timer/timer.py $1; };timer_py'
+function timer { python3 ~/code/timer/timer.py $1; }'
 ```
 
 ### Run
