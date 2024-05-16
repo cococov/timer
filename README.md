@@ -1,5 +1,7 @@
 # timer
 
+![image](https://github.com/cococov/timer/assets/19384973/24816b11-91bd-4320-8c89-1196689ac079)
+
 ### ZSH config
 
 ```sh
